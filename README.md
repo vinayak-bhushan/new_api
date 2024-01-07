@@ -20,13 +20,15 @@ A simple Flutter news app that retrieves news posts from an API and displays the
    git clone https://github.com/vinayak-bhushan/flutter-news-app.git
 
 3. **Navigate to Project Directory:**
-    cd flutter-news-app
+     ```bash
+     cd flutter-news-app
 
 4. **Install Dependencies:**
     flutter pub get
 
 5. **To run this application:**
-   flutter run
+    ```bash
+    flutter run
 
 ## Usage
 - To use the app, you need to provide an API key from any news provider ( Api Key : https://newsapi.org/v2/top-headlines?country=us&apiKey=759c417d12ae40eeaa6c8ff46b95a6e0)
